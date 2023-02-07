@@ -7,6 +7,6 @@ The main purpose of this repository is a making of Machine Learning model using 
 
 The main ally into this project is the the skill of translate math into programming language. On both of this code was used a error fuction to detremine the ideal weights and a parcial derivatives to "travel" through the parabola error 
 
-![linear_regression_gradient1](https://user-images.githubusercontent.com/108126471/217222516-3137acb0-10c5-4834-86f4-ae38759dc039.png)
-
 ![linear_regression_error1](https://user-images.githubusercontent.com/108126471/217222519-c0fb6c0d-638a-4a19-ba11-d9b979d54f7c.png)
+
+![linear_regression_gradient1](https://user-images.githubusercontent.com/108126471/217222516-3137acb0-10c5-4834-86f4-ae38759dc039.png)
